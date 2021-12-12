@@ -1,0 +1,7 @@
+date_module.content:
+  path: '/date_module'
+  defaults:
+    _controller: '\Drupal\date_module\Controller\MyController::content'
+    _title: 'The date is'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,6 @@
+date_module.newpage:
+  title: 'Date Page'
+  description: 'Link to the page date_block created'
+  route_name: date_module.content
+  weight: 10
+  menu_name: main
